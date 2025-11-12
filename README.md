@@ -12,7 +12,7 @@ supports commands:
 
 **How to run**
 1. Create your bot. [How?](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
-2. Clone repo `git clone [https://github.com/cornhubius/TelegrammBotWildberries](https://github.com/eduard-terletskiy/TelegrammBotWildberries)`
+2. Clone repo `git clone https://github.com/eduard-terletskiy/TelegrammBotWildberries`
 3. Create venv `pythom -m venv env`
 4. install requirements `pip install -r requirements.txt`
 5. create `.env` file with `TOKEN="YourToken"` or change: `updater = Updater("YourToken", use_context=True)` in `wildberriesBot.py`
